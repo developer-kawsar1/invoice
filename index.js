@@ -1,3 +1,5 @@
+alert(8)
+
 var $btn = document.getElementById('btnScreenShot');
 $btn.addEventListener('click', onScreenShotClick);
 
